@@ -4,11 +4,11 @@ const Slide2 = () => {
 
   return (
     <>
-    <div className="project-hero">
-      <img class="project-img" src="https://source.unsplash.com/random/800x600" alt="Random 1" />
-      <h1>Replik8</h1>
+      <div className="project-hero">
+        <img class="project-img" src="https://source.unsplash.com/random/800x600" alt="Random 1" />
+        <h1>Replik8</h1>
       </div>
-      
+
       {/* <h2>JQuery</h2> */}
       <div className="slider-content">
 
